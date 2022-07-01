@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Comic Sans MS", BUNGEE SHADE;
+    font-weight: large;
+    color: red
+}
+
+p {
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  color:white
+}
