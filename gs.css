@@ -1,8 +1,5 @@
-body{
-  .wsite-button.wsite-button-large.wsite-button-normal,
-.wsite-button.wsite-button-small.wsite-button-normal {
-color: #fff !important;
-display: inline-block;
-border: none;
-background: #fa0000 !important;
+p {
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  color:white
 }
