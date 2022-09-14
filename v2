@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: brown;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-size: 40px;
+}
+
+p {
+  font-family: Comic Sans MS;
+  font-size: 20px;
+}
+
+p2 {
+	font-family: Comic Sans MS;
+	font-size: 20px;
+    color: white;
+}
+    
+</style>
+</head>
+<body>
+
+<h1>BRU GAMES</h1>
+
+
+
+</body>
+</html>
