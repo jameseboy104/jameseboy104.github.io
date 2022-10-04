@@ -3,6 +3,7 @@
 
 <body>
 <h1>Bru Games<h1/>
-<p>game website<p/>
+  <head>
+<p2>game website<p2/>
 <body/>
 
